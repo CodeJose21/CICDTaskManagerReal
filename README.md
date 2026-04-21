@@ -1,3 +1,4 @@
+JOSE GONZALEZ
 # Task Manager CI/CD (GitHub Actions)
 
 This project is an educational example of a task manager implemented in Java 21 using Maven.
