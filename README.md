@@ -66,7 +66,7 @@ This repository includes three approaches to CI/CD with GitHub Actions:
 ![Test](https://github.com/CodeJose21/CICDTaskManagerReal/actions/workflows/test.yml/badge.svg?branch=main)
 ![Build](https://github.com/CodeJose21/CICDTaskManagerReal/actions/workflows/build.yml/badge.svg?branch=main)
 ![Integration Test](https://github.com/CodeJose21/CICDTaskManagerReal/actions/workflows/integration-test.yml/badge.svg?branch=main)
-![Javadoc](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/actions/workflows/javadoc.yml/badge.svg?branch=main)
+![Javadoc](https://github.com/CodeJose21/CICDTaskManagerReal/actions/workflows/javadoc.yml/badge.svg?branch=main)
 
 ## How to build and test
 
